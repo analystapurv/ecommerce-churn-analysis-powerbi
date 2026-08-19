@@ -3,6 +3,7 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI Dashboard](dashboard_screenshot.png)
 
 ## 📌 Project Overview
 This project is an end-to-end data analytics pipeline designed to identify, quantify, and analyze customer churn for an e-commerce platform. Moving beyond basic visualizations, this project encompasses data extraction, Python-based data cleaning, MySQL data warehousing, and a high-density, enterprise-grade Power BI dashboard. 
